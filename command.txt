@@ -1,0 +1,5 @@
+command for starting project 
+
+
+./ganggang.py infer -r ./saved_cv/0601_155824/checkpoints/model_best.pth 
+
